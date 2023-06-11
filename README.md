@@ -1,1 +1,1 @@
-# .github
+# Afrix Developers - Your Tech Solutions
