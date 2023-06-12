@@ -2,9 +2,8 @@
 
 **It's Afrix Developers - **Your Tech Solutions
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+Afrix Developers is a registered software company that is managed by highly experienced Information Technology Professionals and offers the
+best software solutions in East Africa. We help provide solutions to Businesses and Institutions that need to go online so that they can 
+increase their productivity. We take our clients business as our own. We believe that the success of our clients is our success. We believe
+in building and maintaining long term relationships with all our clients. At Afrix Developers, we pride ourselves in offering our customers.
 
