@@ -7,3 +7,8 @@ best software solutions in East Africa. We help provide solutions to Businesses 
 increase their productivity. We take our clients business as our own. We believe that the success of our clients is our success. We believe
 in building and maintaining long term relationships with all our clients. At Afrix Developers, we pride ourselves in offering our customers.
 
+Services
+-Web Design and Development
+-Mobile App Development
+-Web Hosting and Bulk SMS Services
+and many more...
