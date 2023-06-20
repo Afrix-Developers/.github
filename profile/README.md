@@ -8,7 +8,7 @@ increase their productivity. We take our clients business as our own. We believe
 in building and maintaining long term relationships with all our clients. At Afrix Developers, we pride ourselves in offering our customers.
 
 Services
-# Web Design and Development
-# Mobile App Development
-# Web Hosting and Bulk SMS Services
-# and many more...
+Web Design and Development <br />
+Mobile App Development <br />
+Web Hosting and Bulk SMS Services <br />
+and many more...
