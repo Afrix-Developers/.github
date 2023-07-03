@@ -13,9 +13,3 @@ At Smatech Labs, we embrace diversity and foster a culture of creativity and inn
 Our commitment to quality is unwavering. We follow industry best practices and rigorous quality assurance processes to ensure that our software solutions are reliable, secure, and performant. We are dedicated to delivering projects on time and within budget, exceeding our clients' expectations at every step of the journey.
 
 In an ever-evolving digital landscape, Smatech Labs is your trusted partner for all your software development needs. We are here to transform your ideas into reality, empowering your business to thrive in the digital era. Discover the power of innovation with Smatech Labs.
-
-Services <br />
-- Web Design and Development <br />
-- Mobile App Development <br />
-- Web Hosting and Bulk SMS Services <br />
-and many more...
